@@ -1,6 +1,6 @@
 # Data and experiment products
 datasets/
-data/
+/data/
 previous_logs/
 logs/
 results/
