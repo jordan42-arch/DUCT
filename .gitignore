@@ -1,0 +1,33 @@
+# Data and experiment products
+datasets/
+data/
+previous_logs/
+logs/
+results/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.zip
+*.tar.gz
+*.log
+
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.env
+.env.*
+*.pem
+*.key
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
